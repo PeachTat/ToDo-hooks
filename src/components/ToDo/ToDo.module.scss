@@ -1,0 +1,27 @@
+.row {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.Like, .Delete {
+    height: 55px !important;
+    width: 120px;
+}
+
+.Like {
+    margin-right: 5px;
+}
+
+// .LikeActive {
+//     background-color: tomato !important;
+// }
+
+.list {
+    width: 100%;
+}
+
+.block {
+    border: 1px solid grey;
+    padding: 10px 10px !important;
+    width: 100%;
+}
